@@ -313,7 +313,9 @@ textarea {
   display: none;
   
 }
-
+.set{
+  width:100%;
+}
 .heading {
 
   margin-right: 40%;
